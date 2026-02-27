@@ -1,4 +1,4 @@
-### Hi there, I'm [Abdullah Hussain Mallah] 👋
+### Hi there, I'm Abdullah Hussain Mallah 👋
 
 A passionate Computer Science student currently exploring Software Development, Data Science,AI, and Web Technologies.
 
