@@ -1,20 +1,22 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=0077B5&center=true&vCenter=true&width=750&lines=Hi+there,+I%27m+Abdullah+Hussain+Mallah+%F0%9F%91%8B;Computer+Science+Student;Java+%7C+DSA+%7C+Networking+Enthusiast;Building+Real+World+Projects+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=0077B5&center=true&vCenter=true&width=850&lines=Hi+there,+I%27m+Abdullah+Hussain+Mallah+%F0%9F%91%8B;AI+%7C+Data+Science+%7C+Machine+Learning;Web+Development+%7C+Software+Development;Building+Intelligent+Solutions+%F0%9F%9A%80" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 🎓 Computer Science Student  
-💡 Passionate about Software Development, Data Structures, and Networking  
-🚀 Focused on building real-world, scalable applications  
-📚 Currently exploring AI & Data Science  
+🤖 Passionate about **Artificial Intelligence & Machine Learning**  
+📊 Exploring **Data Science & Analytics**  
+🌐 Building modern **Web Applications**  
+💻 Developing scalable **Software Solutions**  
+🚀 Focused on real-world problem solving  
 
 ---
 
 ## 🚀 Tech Stack
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,cpp,py,html,css,js,mysql,mongodb,git,github" />
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,html,css,js,mysql,mongodb,git,github,react,nodejs" />
 </p>
 
 ---
