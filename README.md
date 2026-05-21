@@ -7,7 +7,7 @@
 ## 👨‍💻 About Me
 🎓 Computer Science Student  
 🤖 Passionate about **Artificial Intelligence & Machine Learning**  
-📊 Exploring **Data Science & Analytics**  
+📊 Exploring **Deep Learning**  
 🌐 Building modern **Web Applications**  
 💻 Developing scalable **Software Solutions**  
 🚀 Focused on real-world problem solving  
