@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=0077B5&center=true&vCenter=true&width=850&lines=Hi+there,+I%27m+Abdullah+Hussain+Mallah+%F0%9F%91%8B;AI+%7C+Data+Science+%7C+Machine+Learning;AI+Integrated+Web+Development+%7C+Bringing+new+Innovations;Building+Intelligent+Solutions+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=0077B5&center=true&vCenter=true&width=850&lines=Hi+there,+I%27m+Abdullah+Hussain+Mallah+%F0%9F%91%8B;AI+%7C+Data+Science+%7C+Machine+Learning;AI+Integrated+Web+Development+%7C+AI+powered+APP;Building+Intelligent+Solutions+%F0%9F%9A%80" />
 </p>
 
 ---
